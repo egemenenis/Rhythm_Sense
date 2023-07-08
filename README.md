@@ -1,4 +1,4 @@
-# Rhythm_Sense
+# Rhythm Sense
 
 <img src="https://github.com/egemenenis/Project_Photos/blob/main/rs_photos/rs1.png">
 <img src="https://github.com/egemenenis/Project_Photos/blob/main/rs_photos/rs2.png">
